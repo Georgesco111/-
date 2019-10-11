@@ -1,3 +1,65 @@
 body{
-	background-color: red;
+	margin: 30px 0px 0px 30px;
 }
+.logo{
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 50px;
+	font-size: 22px;
+	font-weight: bold;
+	color: blue;
+}
+.nav{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.red{
+	color: red;
+}
+.surati img {
+	margin: 30px 0px 90px 0px;
+}
+.bloki p {
+	color: black;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 55px;
+}
+.p{
+	color: #3D58A6;
+	padding-left: 45px;
+	font-size: 22px;
+
+}
+.p1{
+	display: inline-block;
+	width: 335px;
+	vertical-align:middle;
+	padding-left: 60px;
+	font-size: 20px;
+}
+.box{
+	display: inline-block;
+	width: 575px;
+	height: 225px;
+	background-color: gray;
+	display: inline-block;
+	margin-right: 20px;
+}
+.boxlogo{
+	width: 70px;
+	margin-top: 20px;
+	padding-left: 40px;
+	display: inline-block;
+	vertical-align: middle;
+
+
+}
+
